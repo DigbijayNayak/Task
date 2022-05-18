@@ -1,0 +1,23 @@
+IonCard{
+    float: right;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 0;
+}
+.card{
+    
+}
+#input{
+    width: 100px;
+}
+.box {
+    border-color: #403E39;
+    border-width: thin;
+    border-style: solid;
+    border-radius: 3px;
+}
+
+#detail{
+    margin-bottom: 10px;
+}
