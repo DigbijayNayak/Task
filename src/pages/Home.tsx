@@ -9,12 +9,12 @@ const Home: React.FC = () => {
   return (
     <IonPage>
       <IonHeader>
-        <IonToolbar>
-          <IonTitle color='black'>MyFirst App</IonTitle>
+        <IonToolbar color='#b4ebf0'>
+          <IonTitle color=''>MyFirst App</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
-        <IonCard class="container card">
+        <IonCard class="container card" color='#b4ebf0'>
           <IonCardHeader>
             <IonCardTitle color='dark'>Administration Login</IonCardTitle>
             <IonText>Please enter your admin credentials to gain access</IonText>
